@@ -1,4 +1,4 @@
-TinDog Starting Files
+TinDog Project
 
 This is a responsive Website for all types of devices.
 
